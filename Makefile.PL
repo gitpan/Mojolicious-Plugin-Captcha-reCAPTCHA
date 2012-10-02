@@ -23,7 +23,7 @@ my %WriteMakefileArgs = (
     "Captcha::reCAPTCHA" => 0,
     "Mojolicious" => "2.00"
   },
-  "VERSION" => "0.03",
+  "VERSION" => "0.04",
   "test" => {
     "TESTS" => "t/*.t"
   }
